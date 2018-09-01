@@ -26,8 +26,3 @@ if (uppercase.toUpperCase() === uppercase)
 return "YES INDEED!"
 }
 
-function sayHiToGrandma(string) {
- var phrase = "I love you, Grandma"
- if(phrase  === phrase)
- return "I love you, too."
-}
